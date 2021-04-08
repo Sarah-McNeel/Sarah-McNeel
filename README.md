@@ -1,6 +1,6 @@
-### Welcome to my GitHub Page 👋
+### Hi, I'm Sarah D. McNeel, welcome to my GitHub page 👋
 
-- I’m currently working on Certification for Full-Stack Software Developer 
+- In bootcamp at University of Texas @ Austin for Full-Stack Software Developer 
 - I’m currently learning MERN
 - I'm currently building a business website
 - Ask me about ... Anything
