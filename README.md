@@ -1,7 +1,7 @@
 ## Hi, I'm Sarah D. McNeel, welcome to my GitHub page 👋
 
-- In bootcamp at University of Texas @ Austin for Full-Stack Software Developer 
-- I’m currently learning MERN
+- Certified Full Stack Software Developer from University of Texas @ Austin 
+- I’m currently practicing MERN skills
 - I'm currently building a business website
 - Ask me about ... Anything
 
